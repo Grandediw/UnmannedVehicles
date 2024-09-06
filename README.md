@@ -1,4 +1,4 @@
-# Unmanned Vehicles (Drones) Projects
+# Unmanned Vehicles Projects
 
 ## Overview
 
