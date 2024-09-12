@@ -55,7 +55,7 @@ Contributions are welcome! Feel free to add new control algorithms, simulations,
 3. Make your changes.
 4. Commit your changes (`git commit -m 'Add new drone feature'`).
 5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
+6. Open a pull request
 
 ## License
 
