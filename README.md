@@ -7,7 +7,6 @@ This repository contains Python and MATLAB files related to unmanned aerial vehi
 ## Key Features
 
 - **Flight Control Algorithms**: Implementations of PID, LQR, and other control strategies for stabilizing and controlling drones.
-- **Path Planning**: Algorithms for planning optimal drone paths using techniques like A*, RRT, and potential fields.
 - **Dynamic Modeling**: Simulation of drone dynamics using mathematical models to analyze flight behavior under different conditions.
 - **Multi-Platform Support**: Both Python and MATLAB implementations for flexibility in control design and simulation.
 
